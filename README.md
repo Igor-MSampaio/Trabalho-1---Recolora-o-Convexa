@@ -1,1 +1,1 @@
-# Trabalho-1---Recolora-o-Convexa
+# Trabalho 1 - Recoloração Convexa
